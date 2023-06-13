@@ -3,6 +3,13 @@
 ### Background
 Additional Dependencies required are : Spark, Scala, SBT (maven can be used also, but since we are using Scala, SBT feels more native and powerful)
 
+Arguments Order : 
+1. bookingDataPath, 
+2. startDate, 
+3. endDate, 
+4. airportDataPath
+
+
 This Project can be run in 2 ways :- 
 ###### 1 . IDE - Clone this project, Open on IntelliJ and after installing dependencies Run this project (for default arguments) or Modify Run Arguments for custom arguments like booking/airport path, start/end dates.
 
